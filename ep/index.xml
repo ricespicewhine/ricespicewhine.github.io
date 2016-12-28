@@ -12,13 +12,15 @@
 		<copyright>Copyright 2016 Rice, Spice, Whine</copyright>
 		
 		
+		
+		
 		<item>
-			<title>0: open</title>
-			<description><p>Hello, world!</p>
+			<title>0: Open</title>
+			<description><p>The pilot episode of the podcast in which Eric dutifuly asks: &ldquo;Do we have an audience?&rdquo; Our first discussion on things we know little about.</p>
 </description>
 			<itunes:author>Rice, Spice, and Whine</itunes:author>
 			<pubDate>Thu, 126 Jun 27019</pubDate>
-			<enclosure url="https://foo.bar/filename.jpg" length="25" type="audio/mpeg" />
+			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/0-open.mp3" length="4171904" type="audio/mpeg" />
 		</item>
 		
 		
