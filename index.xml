@@ -6,10 +6,26 @@
 		<description></description>
 		<itunes:author>Eric, Ian, and Kellen</itunes:author>
 		<link>https://ricespicewhine.github.io/index.xml</link>
-		<itunes:image href="http://kingofwallpapers.com/porpoise/porpoise-004.jpg" />
+		<itunes:image href="https://s3-us-west-2.amazonaws.com/rswpodcast/cover.jpg" />
+		<image>
+			<url>https://s3-us-west-2.amazonaws.com/rswpodcast/icon.jpg</url>
+			<title>Rice, Spice, and Whine</title>
+			<link>https://ricespicewhine.github.io/index.xml</link>
+		</image>
 		<pubDate>Tue, 27 Dec 2016 21:00:00 PST</pubDate>
 		<language>en-us</language>
 		<copyright>Copyright 2016 Rice, Spice, Whine</copyright>
+		
+		
+		<item>
+			<title>1: Vacation</title>
+			<description><p>Kellen discusses his perfect vacation.</p>
+</description>
+			<itunes:author>Rice, Spice, and Whine</itunes:author>
+			<pubDate>Thu, 16 Jun 17043</pubDate>
+			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/1-vacation.mp3" length="16451584" type="audio/mpeg" />
+		</item>
+		
 		
 		
 		
