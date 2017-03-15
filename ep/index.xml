@@ -6,15 +6,21 @@
 		<description></description>
 		<itunes:author>Eric, Ian, and Kellen</itunes:author>
 		<link>https://ricespicewhine.github.io/ep/index.xml</link>
-		<itunes:image href="https://s3-us-west-2.amazonaws.com/rswpodcast/cover.jpg" />
-		<image>
-			<url>https://s3-us-west-2.amazonaws.com/rswpodcast/icon.jpg</url>
-			<title>Rice, Spice, and Whine</title>
-			<link>https://ricespicewhine.github.io/ep/index.xml</link>
-		</image>
+		<itunes:image href="http://kingofwallpapers.com/porpoise/porpoise-004.jpg" />
 		<pubDate>Tue, 27 Dec 2016 21:00:00 PST</pubDate>
 		<language>en-us</language>
 		<copyright>Copyright 2016 Rice, Spice, Whine</copyright>
+		
+		
+		<item>
+			<title>3: Impressionable</title>
+			<description><p>We tried to not be judgy. We failed.</p>
+</description>
+			<itunes:author>Rice, Spice, and Whine</itunes:author>
+			<pubDate>Thu, 36 Jun 14057</pubDate>
+			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/3-impressionable.mp3" length="13126784" type="audio/mpeg" />
+		</item>
+		
 		
 		
 		<item>
@@ -22,7 +28,7 @@
 			<description><p>We talk about how we spend our free time.</p>
 </description>
 			<itunes:author>Rice, Spice, and Whine</itunes:author>
-			<pubDate>Thu, 26 Jun 14038</pubDate>
+			<pubDate>Thu, 26 Jun 14050</pubDate>
 			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/2-super-sabbath.mp3" length="16024064" type="audio/mpeg" />
 		</item>
 		
@@ -33,7 +39,7 @@
 			<description><p>Kellen discusses his perfect vacation.</p>
 </description>
 			<itunes:author>Rice, Spice, and Whine</itunes:author>
-			<pubDate>Thu, 16 Jun 17043</pubDate>
+			<pubDate>Thu, 16 Jun 17044</pubDate>
 			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/1-vacation.mp3" length="16451584" type="audio/mpeg" />
 		</item>
 		
@@ -49,6 +55,18 @@
 			<pubDate>Thu, 126 Jun 27019</pubDate>
 			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/0-open.mp3" length="4171904" type="audio/mpeg" />
 		</item>
+		
+		
+		
+		<item>
+			<title>Eps</title>
+			<description></description>
+			<itunes:author>Rice, Spice, and Whine</itunes:author>
+			<pubDate>Thu, 36 Jun 14057</pubDate>
+			<enclosure url="" length="" type="audio/mpeg" />
+		</item>
+		
+		
 		
 		
 	</channel>
