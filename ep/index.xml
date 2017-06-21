@@ -5,7 +5,7 @@
 		<title>Rice, Spice, and Whine</title>
 		<description></description>
 		<itunes:author>Eric, Ian, and Kellen</itunes:author>
-		<link>https://ricespicewhine.github.io/ep/index.xml</link>
+		<link>https://ricespicewhine.github.io/ep/</link>
 		<itunes:image href="http://kingofwallpapers.com/porpoise/porpoise-004.jpg" />
 		<pubDate>Tue, 27 Dec 2016 21:00:00 PST</pubDate>
 		<language>en-us</language>
@@ -13,11 +13,22 @@
 		
 		
 		<item>
+			<title>6: GoodPeeps</title>
+			<description><p>The boys try to turn things positive. What quality makes a person &ldquo;good&rdquo;?</p>
+</description>
+			<itunes:author>Rice, Spice, and Whine</itunes:author>
+			<pubDate>Thu, 66 Jun 20018</pubDate>
+			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/6-goodpeeps.mp3" length="14175872" type="audio/mpeg" />
+		</item>
+		
+		
+		
+		<item>
 			<title>5: Habits</title>
 			<description><p>We talk about forming habits, habitual behaviors, and whether we should change them.</p>
 </description>
 			<itunes:author>Rice, Spice, and Whine</itunes:author>
-			<pubDate>Thu, 56 Jun 9014</pubDate>
+			<pubDate>Thu, 56 Jun 9023</pubDate>
 			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/5-habits.mp3" length="17818112" type="audio/mpeg" />
 		</item>
 		
@@ -25,10 +36,10 @@
 		
 		<item>
 			<title>4: Gratitude</title>
-			<description><p>We discuss what it means to be grateful, and Eric makes a promise to Ian&rsquo;s mom.</p>
+			<description><p>We discuss what it means to be grateful, and Eric makes a promise to Ian’s mom.</p>
 </description>
 			<itunes:author>Rice, Spice, and Whine</itunes:author>
-			<pubDate>Thu, 46 Jun 25044</pubDate>
+			<pubDate>Thu, 46 Jun 25027</pubDate>
 			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/4-gratitude.mp3" length="17167872" type="audio/mpeg" />
 		</item>
 		
@@ -80,13 +91,17 @@
 		
 		
 		
+		
+		
 		<item>
 			<title>Eps</title>
 			<description></description>
 			<itunes:author>Rice, Spice, and Whine</itunes:author>
-			<pubDate>Thu, 56 Jun 9014</pubDate>
+			<pubDate>Thu, 66 Jun 20018</pubDate>
 			<enclosure url="" length="" type="audio/mpeg" />
 		</item>
+		
+		
 		
 		
 		
