@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ricespicewhine.github.io/ep/8-identity/</loc>
+    <lastmod>2017-08-08T21:00:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ricespicewhine.github.io/ep/7-changes/</loc>
     <lastmod>2017-07-18T21:02:18-07:00</lastmod>
   </url>
@@ -54,13 +59,13 @@
   
   <url>
     <loc>https://ricespicewhine.github.io/ep/</loc>
-    <lastmod>2017-07-18T21:02:18-07:00</lastmod>
+    <lastmod>2017-08-08T21:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ricespicewhine.github.io/</loc>
-    <lastmod>2017-07-18T21:02:18-07:00</lastmod>
+    <lastmod>2017-08-08T21:00:00-07:00</lastmod>
     <priority>0</priority>
   </url>
   
