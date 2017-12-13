@@ -13,6 +13,17 @@
 		
 		
 		<item>
+			<title>9: Lying</title>
+			<description><p>In this episode we talk about lying and social contracts.</p>
+</description>
+			<itunes:author>Rice, Spice, and Whine</itunes:author>
+			<pubDate>Thu, 126 Jun 12000</pubDate>
+			<enclosure url="https://s3-us-west-2.amazonaws.com/rswpodcast/episodes/9-lying.mp3" length="20580415" type="audio/mpeg" />
+		</item>
+		
+		
+		
+		<item>
 			<title>8: Identity</title>
 			<description><p>In this episode we talk about what makes up identity, and whether our appearances can be considered deceptive.</p>
 </description>
@@ -119,7 +130,7 @@
 			<title>Eps</title>
 			<description></description>
 			<itunes:author>Rice, Spice, and Whine</itunes:author>
-			<pubDate>Thu, 86 Jun 8000</pubDate>
+			<pubDate>Thu, 126 Jun 12000</pubDate>
 			<enclosure url="" length="" type="audio/mpeg" />
 		</item>
 		
