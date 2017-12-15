@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://ricespicewhine.com/ep/11-opener/</loc>
+    <lastmod>2017-12-14T16:28:00-08:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://ricespicewhine.com/ep/10-slavs/</loc>
     <lastmod>2017-12-13T19:00:00-08:00</lastmod>
   </url>
@@ -69,13 +74,13 @@
   
   <url>
     <loc>https://ricespicewhine.com/ep/</loc>
-    <lastmod>2017-12-13T19:00:00-08:00</lastmod>
+    <lastmod>2017-12-14T16:28:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://ricespicewhine.com/</loc>
-    <lastmod>2017-12-13T19:00:00-08:00</lastmod>
+    <lastmod>2017-12-14T16:28:00-08:00</lastmod>
     <priority>0</priority>
   </url>
   
